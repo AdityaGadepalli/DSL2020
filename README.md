@@ -10,7 +10,7 @@ Aditya Gadepalli (19BM6JP08) | Srijan Gupta (19BM6JP19) | Anudeep Immidisetty (1
     |── Slides                           <- Contains the PPT and PDF of the final presentation
     |── csv_files                        <- Contains all the csv files used within the ipynb
     ├── images                           <- Contains all the image files used within the ipynb
-    ├── ipynb_files                      <- Contains the main ipython Juptyter Notebook implementation of the complete project
+    ├── ipynb_files                      <- Contains the ipython notebook of the complete implementation
     ├── tableau_files                    <- Contains the tableau workbook file of the Dashboard
 
 ![Screenshot](flowchart.png)
