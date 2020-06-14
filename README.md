@@ -5,7 +5,7 @@
 Aditya Gadepalli (19BM6JP08) | Srijan Gupta (19BM6JP19) | Anudeep Immidisetty (19BM6JP54)
 
 
-## Project Organization
+## Project Organization - File Structure
     ├── README.md                        <- Project Homepage
     |── Notebooks                        <- Sub Directory containing the Final Jupyter Notebook
     |   ──FairnessAwareRanking_AI_Ethics_Group_13.ipynb
