@@ -9,11 +9,11 @@ Consumer facing organizations need to constantly keep track of feedback/grievanc
 
 ## Project Organization - File Structure
     ├── README.md                        <- Project Homepage
-    |── Report                           <- Contains the Report PDF of the final paper in standard format
-    |── Slides                           <- Contains the PPT and PDF of the final presentation
-    |── csv_files                        <- Contains all the csv files used within the ipynb
-    ├── images                           <- Contains all the image files used within the ipynb
-    ├── ipynb_files                      <- Contains the ipython notebook of the complete implementation
+    |── Report                           <- The Report PDF of the paper in standard format
+    |── Slides                           <- The PPT and PDF of the final presentation
+    |── csv_files                        <- The csv files used within the ipynb
+    ├── images                           <- The image files used within the ipynb
+    ├── ipynb_files                      <- The ipython notebook of the complete implementation
     ├── tableau_files                    <- Contains the tableau workbook file of the Dashboard
 
 ![Screenshot](flowchart.png)
