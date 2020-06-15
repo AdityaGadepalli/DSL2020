@@ -9,6 +9,7 @@ Consumer facing organizations need to constantly keep track of feedback/grievanc
 
 ## Project Organization - File Structure
     ├── README.md                        <- Project Homepage
+    |── Report                           <- Contains the Report PDF of the final paper in standard format
     |── Slides                           <- Contains the PPT and PDF of the final presentation
     |── csv_files                        <- Contains all the csv files used within the ipynb
     ├── images                           <- Contains all the image files used within the ipynb
